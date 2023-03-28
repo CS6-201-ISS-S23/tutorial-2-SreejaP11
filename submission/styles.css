@@ -1,0 +1,41 @@
+.size{
+  font-size: 13px;
+}
+
+.right{
+  text-align: right;
+}
+
+.heading{
+  text-align: right;
+}
+
+.list{
+  margin: 0;
+}
+
+.big{
+  font-size: 30px;
+}
+
+.pre{
+  margin-left: 60px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.xyz{
+  background-color: black;
+  color: white;
+}
+
+.abc{
+  width: 2px;
+} 
+
+.color{
+  background-color: red;
+  color: white;
+}
